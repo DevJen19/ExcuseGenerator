@@ -13,7 +13,8 @@ window.onload = function() {
     " JavaScript",
     " 4Geeks Academy",
     " En la litera yo duermo abajo y arriba españa",
-    " Su excusa no se esta cargando..."]
+    " Su excusa no se esta cargando...",
+    " No quise aprender css por que "]
 
     function getRandomElement() {
         return myExcuseArray [Math.floor(Math.random() * myExcuseArray.length)];
